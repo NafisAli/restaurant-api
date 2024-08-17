@@ -21,3 +21,16 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 - TBA.
 
 ---
+
+## 0.1.0 (2024-08-17)
+
+### New
+
+- Solution. Setup developer tools and configurations.
+- Solution. Add changelog.
+
+### Fix
+
+- Restaurant API. REST. Remove dot in variable name to fix REST client error.
+
+---
